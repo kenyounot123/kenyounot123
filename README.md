@@ -28,6 +28,4 @@ I've been learning to code for around 7 months now. I mainly work on web applica
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/kenyounot123"><img src="https://github-readme-stats.vercel.app/api?username=kenyounot123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=22c55e&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kenyounot123's GitHub stats" /></a>
-
 <a href="http://www.github.com/kenyounot123"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kenyounot123&stroke=22c55e&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=22c55e&currStreakLabel=0891b2&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
