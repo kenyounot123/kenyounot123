@@ -8,7 +8,7 @@ I've been learning to code for around 7 months now. I mainly work on web applica
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [kenlu519@gmail.com](mailto:kenlu519@gmail.com)
-* 🚀  I'm currently working on [Social media Clone](http://github.com/kenyounot123/fb-clone)
+* 🚀  I'm currently working on personal projects
 * 🧠  I'm learning Ruby on Rails, Hotwire, JS, CSS, HTML, Python
 * 🤝  I'm open to collaborating on other web applications!
 
