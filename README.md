@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer
 ------------------
-
-I've been learning to code for around 9 months now. I mainly work on web applications and use the Ruby on Rails framework.
+I am a highly motivated and passionate individual with a proactive approach to tackling challenges. My keen interest in STEM and a strong background in mathematics have honed my analytical problem-solving skills. I am proficient in a range of programming languages, including HTML, CSS, Ruby, Python, and JavaScript. I am determined to leverage this expertise to carve out a rewarding career, all the while maintaining a commitment to continuous learning and expanding my knowledge.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [kenlu519@gmail.com](mailto:kenlu519@gmail.com)
