@@ -8,7 +8,7 @@ I am a highly motivated and passionate individual with a proactive approach to t
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [kenlu519@gmail.com](mailto:kenlu519@gmail.com)
 * 🚀  I'm currently working on personal projects
-* 🧠  I'm learning React and gsap
+* 🧠  I'm learning Next.js.
 * 🤝  I'm open to collaborating on other web applications!
 
 ### Skills
