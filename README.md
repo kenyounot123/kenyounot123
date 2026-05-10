@@ -7,7 +7,7 @@ I am a highly motivated and passionate individual with a proactive approach to t
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [kenlu519@gmail.com](mailto:kenlu519@gmail.com)
-* 🚀  I'm currently working on personal projects (Check out my most recent project <a href="https://track-exp.com"> Here </a>)
+* 🚀  I'm currently working on personal projects
 * 🤝  I'm open to collaborating on other web applications!
 
 ## 🛠 Tech Stack
