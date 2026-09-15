@@ -3,7 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Developer
 ------------------
-I am a highly motivated and passionate individual with a proactive approach to tackling challenges. My keen interest in STEM and a strong background in mathematics have honed my analytical problem-solving skills. I am proficient in a range of programming languages, including HTML, CSS, Ruby, Python, and JavaScript. I am determined to leverage this expertise to carve out a rewarding career, all the while maintaining a commitment to continuous learning and expanding my knowledge.
+I’m a software engineer focused on building products that solve real business problems. Over the past few years, I’ve worked across the stack with Ruby, Ruby on Rails, and JavaScript, owning features from idea to production and building systems that automate workflows, improve performance, and help businesses scale.
+
+I enjoy working closely with product teams and users, taking ownership of problems, and turning ideas into software that people actually use. I’m always looking to deepen my technical skills while becoming a stronger product-minded engineer.
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [kenlu519@gmail.com](mailto:kenlu519@gmail.com)
